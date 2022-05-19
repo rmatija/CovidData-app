@@ -1,4 +1,4 @@
-# pi-zad
+# CovidData-app
 
 ## Project setup
 ```
